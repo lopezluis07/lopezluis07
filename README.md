@@ -17,7 +17,7 @@
 - 💻 Trabajo con tecnologías full-stack: desde el frontend hasta infraestructura cloud
 - 🐳 Apasionado por Docker, AWS y la automatización de procesos
 - 🤝 Abierto a colaborar en proyectos open source y de impacto
-- 📍 Armenia Quindio, Colombia
+- 📍 Armenia, Quindío, Colombia
 
 ---
 
@@ -38,9 +38,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lopezluis07&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lopezluis07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezluis07&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezluis07&layout=compact&hide_border=true&theme=default)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lopezluis07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
