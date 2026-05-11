@@ -17,7 +17,7 @@
 - 💻 Trabajo con tecnologías full-stack: desde el frontend hasta infraestructura cloud
 - 🐳 Apasionado por Docker, AWS y la automatización de procesos
 - 🤝 Abierto a colaborar en proyectos open source y de impacto
-- 📍 Bogotá, Colombia
+- 📍 Armenia Quindio, Colombia
 
 ---
 
